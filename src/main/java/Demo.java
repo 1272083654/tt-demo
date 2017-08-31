@@ -4,4 +4,5 @@
 public interface Demo {
     public String getById(Long id);
     public int get();
+    public String getAll();
 }
